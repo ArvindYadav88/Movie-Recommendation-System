@@ -1,0 +1,40 @@
+# ====== Python ======
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# ====== Environment & Secrets ======
+.env
+.env.local
+*.env
+
+# ====== Data & Large Model Files ======
+# These are too big for GitHub. Upload to Drive instead
+*.pkl
+*.csv
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+model/
+
+# ====== IDE / Editor ======
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ====== OS Files ======
+.DS_Store
+Thumbs.db
+
+# ====== Logs & Temp ======
+*.log
+*.tmp
