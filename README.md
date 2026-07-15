@@ -1,4 +1,3 @@
-Here's a concise yet professional **README.md** that includes the most important information without being too long.
 
 # 🎬 Movie Recommendation System
 
