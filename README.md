@@ -1,4 +1,3 @@
-
 # 🎬 Movie Recommendation System
 
 A Movie Recommendation System built using **Machine Learning (NLP)**, **FastAPI**, **Streamlit**, and **PostgreSQL**. The application recommends movies similar to the user's selected movie using **Bag of Words**, **CountVectorizer**, and **TF-IDF**.
