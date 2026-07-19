@@ -1,5 +1,3 @@
-Here's a concise yet professional **README.md** that includes the most important information without being too long.
-
 # 🎬 Movie Recommendation System
 
 A Movie Recommendation System built using **Machine Learning (NLP)**, **FastAPI**, **Streamlit**, and **PostgreSQL**. The application recommends movies similar to the user's selected movie using **Bag of Words**, **CountVectorizer**, and **Cosine Similarity**.
